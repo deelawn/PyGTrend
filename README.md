@@ -9,5 +9,8 @@ It works but it's a bit slow due to having to wait for the JS to be parsed.  No 
 written here due to the many improvements I'll be making.  One should also note that Google's robots.txt file prohibits access to the
 trends domain, so use at your own risk.
 
-A demo is available here: http://deelawn.ninja/gtrend/
-An explanation of how to use the demo is available here: https://steemit.com/data/@deelawn/google-trends-analysis-determining-correlation-of-two-search-terms
+A demo is available here:  
+http://deelawn.ninja/gtrend/
+
+An explanation of how to use the demo is available here:  
+https://steemit.com/data/@deelawn/google-trends-analysis-determining-correlation-of-two-search-terms
